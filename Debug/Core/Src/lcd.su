@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:16:6:WRITE_HIGH_NIBBLE	16	static
+../Core/Src/lcd.c:43:6:WRITE_LOW_NIBBLE	16	static
+../Core/Src/lcd.c:68:6:HAL_LCD_WRITE_COMMAND	16	static
+../Core/Src/lcd.c:75:6:HAL_LCD_WRITE_DATA	16	static
+../Core/Src/lcd.c:81:6:HAL_LCD_Init	8	static
+../Core/Src/lcd.c:90:6:HAL_LCD_STRING	24	static
